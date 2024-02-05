@@ -46,5 +46,8 @@ public class STRINGMARAVILLOSO{
             }
             System.out.println();
         }
+        
+        
+        System.out.println("FIN");
     }    
 }
